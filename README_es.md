@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <p align="center">
 <img width="1000px" alt="Integraciones Asombrosas de DeepSeek" src="docs/Awesome DeepSeek Integrations.png">
@@ -882,9 +882,9 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td>Herramientas de programación y operación de IA móvil, socio de programación de DeepSeek</td>
     </tr>
     <tr>
-        <td width=80> <img src="docs/trailmark/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/EdelmarSchneider/trailmark"> TrailMark </a> </td>
-        <td> <a href="https://edelmarschneider.github.io/trailmark/"> TrailMark </a> Lee lo que escribe tu IA. Escribe lo que ella lee. Un IDE de Markdown de escritorio de código abierto (MIT/Apache-2.0) para Windows, macOS y Linux diseñado para planificar, formalizar especificaciones y dirigir agentes de programación impulsados por DeepSeek (OpenCode, Cline, Roo Code, Aider, Cursor) mediante un servidor MCP integrado (<code>trailmark mcp</code>), diferencias en vivo por bloques, seguimiento de cambios no leídos en git worktrees, búsqueda por etiquetas, notas con autoguardado y comentarios en línea, además de lectura y edición visual de cualquier archivo <code>.md</code>. </td>
+        <td width=80> <img src="docs/permark/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/EdelmarSchneider/permark"> PerMark </a> </td>
+        <td> <a href="https://edelmarschneider.github.io/permark/"> PerMark </a> Lee lo que escribe tu IA. Escribe lo que ella lee. Un IDE de Markdown de escritorio de código abierto (MIT/Apache-2.0) para Windows, macOS y Linux diseñado para planificar, formalizar especificaciones y dirigir agentes de programación impulsados por DeepSeek (OpenCode, Cline, Roo Code, Aider, Cursor) mediante un servidor MCP integrado (<code>permark mcp</code>), diferencias en vivo por bloques, seguimiento de cambios no leídos en git worktrees, búsqueda por etiquetas, notas con autoguardado y comentarios en línea, además de lectura y edición visual de cualquier archivo <code>.md</code>. </td>
     </tr>
 </table>
 
@@ -965,3 +965,4 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
 
 [![Star History Chart](https://api.star-history.com/svg?repos=deepseek-ai/awesome-deepseek-integration&type=Date)](https://star-history.com/#deepseek-ai/awesome-deepseek-integration&Date)
 Este gráfico muestra la evolución de las estrellas del repositorio en GitHub a lo largo del tiempo.
+
