@@ -781,6 +781,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="docs/wusigram/README.md"> 无思微程序 </a> </td>
         <td>モバイルAIプログラミングおよび運用ツール、DeepSeekプログラミングパートナー</td>
     </tr>
+    <tr>
+        <td width=80> <img src="docs/trailmark/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/EdelmarSchneider/trailmark"> TrailMark </a> </td>
+        <td> <a href="https://edelmarschneider.github.io/trailmark/"> TrailMark </a> DeepSeek を活用したコーディングエージェント（OpenCode、Cline、Roo Code、Aider、Cursor など）と共に仕様策定・設計・ドキュメントレビューを行うためのオープンソース（MIT/Apache-2.0）デスクトップ Markdown IDE（Windows / macOS / Linux 対応）。ローカル MCP サーバー（<code>trailmark mcp</code>）、リアルタイムの段落差分ハイライト、Git worktree 横断の未読追跡、タグ・全文検索、インラインコメント、自動保存ノートを備え、Mermaid 図や KaTeX 数式を含むあらゆる <code>.md</code> ファイルを美しく表示・編集できます。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>

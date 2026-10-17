@@ -1102,6 +1102,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="docs/wusigram/README.md"> 无思微程序 </a> </td>
         <td>A mobile AI code writing and running tool. DeepSeek Programming Companion</td>
     </tr>
+    <tr>
+        <td width=80> <img src="docs/trailmark/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/EdelmarSchneider/trailmark"> TrailMark </a> </td>
+        <td> <a href="https://edelmarschneider.github.io/trailmark/"> TrailMark </a> Read what your AI writes. Write what it reads. An open-source (MIT/Apache-2.0) desktop Markdown IDE for Windows, macOS, and Linux built for planning, formalizing specifications, and steering DeepSeek-powered coding agents (OpenCode, Cline, Roo Code, Aider, Cursor, Claude Code Router) via a built-in MCP server (<code>trailmark mcp</code>), live block-level diffs, unread tracking across git worktrees, BM25 + tag search, self-saving notes, and inline review comments—plus clean reading and visual editing for any <code>.md</code> file (Mermaid, KaTeX, ~190 languages). </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>

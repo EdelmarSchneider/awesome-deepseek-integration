@@ -946,6 +946,11 @@
         <td> <a href="docs/wusigram/README_cn.md"> 无思微程序 </a> </td>
         <td>行動端AI程式設計與運行工具，DeepSeek程式設計搭檔</td>
     </tr>
+    <tr>
+        <td width=80> <img src="docs/trailmark/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/EdelmarSchneider/trailmark"> TrailMark </a> </td>
+        <td> <a href="https://edelmarschneider.github.io/trailmark/"> TrailMark </a> 面向 AI 時代的開源桌面端 Markdown IDE（支援 Windows、macOS、Linux），專為開發者與接入 DeepSeek 的編程智能體（OpenCode、Cline、Roo Code、Aider、Cursor 等）協同規劃、沉澱規範（Spec）和審閱文件打造。內建本地 MCP 伺服器（<code>trailmark mcp</code>）、即時段落級修改高亮、跨 Git worktree 未讀追蹤、BM25 與標籤檢索、行內批註閉環以及自動儲存筆記，同時支援精美的 <code>.md</code> 閱讀（Mermaid、KaTeX 公式）與視覺化編輯。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>
