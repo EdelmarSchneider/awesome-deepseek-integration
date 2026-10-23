@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <p align="center">
 <img width="1000px" alt="Awesome DeepSeek Integrations" src="docs/Awesome DeepSeek Integrations.png">
@@ -404,6 +404,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/guyoung/AIMatrices/blob/main/README.md">AIMatrices</a> </td>
         <td>AIMatricesは、効率的で便利なaiアプリケーション開発体験を開発者に提供するために設計された、軽量、高性能、スケーラブルでオープンソースのaiアプリケーション迅速構築プラットフォームです。複数の高度なテクノロジとツールを統合することで、複雑なコードをゼロから作成することなく、ユーザーがaiアプリケーションを迅速に構築、展開、維持できるようになります。</td>
     </tr>
+    <tr>
+        <td width=80> <img src="docs/permark/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/EdelmarSchneider/permark"> PerMark </a> </td>
+        <td> AI エージェントが書いたものを読んでレビューし、ドキュメントを通じて作業を導く Markdown アプリ。オープンソース（MIT または Apache-2.0）、Windows・macOS・Linux 対応。 </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
@@ -781,11 +786,6 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="docs/wusigram/README.md"> 无思微程序 </a> </td>
         <td>モバイルAIプログラミングおよび運用ツール、DeepSeekプログラミングパートナー</td>
     </tr>
-    <tr>
-        <td width=80> <img src="docs/permark/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/EdelmarSchneider/permark"> PerMark </a> </td>
-        <td> <a href="https://edelmarschneider.github.io/permark/"> PerMark </a> DeepSeek を活用したコーディングエージェント（OpenCode、Cline、Roo Code、Aider、Cursor など）と共に仕様策定・設計・ドキュメントレビューを行うためのオープンソース（MIT/Apache-2.0）デスクトップ Markdown IDE（Windows / macOS / Linux 対応）。ローカル MCP サーバー（<code>permark mcp</code>）、リアルタイムの段落差分ハイライト、Git worktree 横断の未読追跡、タグ・全文検索、インラインコメント、自動保存ノートを備え、Mermaid 図や KaTeX 数式を含むあらゆる <code>.md</code> ファイルを美しく表示・編集できます。 </td>
-    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
@@ -898,4 +898,3 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
 </table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
-

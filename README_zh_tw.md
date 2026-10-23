@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <p align="center">
 <img width="1000px" alt="Awesome DeepSeek Integrations" src="docs/Awesome DeepSeek Integrations.png">
@@ -469,6 +469,11 @@
         <td width=80> <img src="docs/turtlenoir/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://haiguitang.net/"> Turtle Noir </a> </td>
         <td> <a href="https://haiguitang.net/"> Turtle Noir </a> 基於 DeepSeek 的 AI 主持人海龜湯 / 側向思維解謎產品，可單人或者多人遊玩。AI 進行控場與吐槽，圍繞「是 / 否 / 無關」的問答推進推理；提供沉浸式玩法（更強劇情氛圍與節奏引導）、引導提示與防卡關機制，同時結合向量檢索 + DeepSeek 進行題目去重，並提供內容審核能力。適合輕量腦洞訓練與在線陪玩。 </td>
+    </tr>
+    <tr>
+        <td width=80> <img src="docs/permark/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/EdelmarSchneider/permark"> PerMark </a> </td>
+        <td> 一款 Markdown 應用程式，用來閱讀和審閱 AI 代理寫下的內容，並透過文件引導工作。開源（MIT 或 Apache-2.0），支援 Windows、macOS 和 Linux。 </td>
     </tr>
 </table>
 
@@ -946,11 +951,6 @@
         <td> <a href="docs/wusigram/README_cn.md"> 无思微程序 </a> </td>
         <td>行動端AI程式設計與運行工具，DeepSeek程式設計搭檔</td>
     </tr>
-    <tr>
-        <td width=80> <img src="docs/permark/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/EdelmarSchneider/permark"> PerMark </a> </td>
-        <td> <a href="https://edelmarschneider.github.io/permark/"> PerMark </a> 面向 AI 時代的開源桌面端 Markdown IDE（支援 Windows、macOS、Linux），專為開發者與接入 DeepSeek 的編程智能體（OpenCode、Cline、Roo Code、Aider、Cursor 等）協同規劃、沉澱規範（Spec）和審閱文件打造。內建本地 MCP 伺服器（<code>permark mcp</code>）、即時段落級修改高亮、跨 Git worktree 未讀追蹤、BM25 與標籤檢索、行內批註閉環以及自動儲存筆記，同時支援精美的 <code>.md</code> 閱讀（Mermaid、KaTeX 公式）與視覺化編輯。 </td>
-    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>
@@ -1136,4 +1136,3 @@
 ### Star 歷史
 
 [![Star History Chart](https://api.star-history.com/svg?repos=deepseek-ai/awesome-deepseek-integration&type=Date)](https://star-history.com/#deepseek-ai/awesome-deepseek-integration&Date)
-

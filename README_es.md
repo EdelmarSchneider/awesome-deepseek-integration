@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <p align="center">
 <img width="1000px" alt="Integraciones Asombrosas de DeepSeek" src="docs/Awesome DeepSeek Integrations.png">
@@ -431,6 +431,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td width=80> <img src="docs/turtlenoir/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://turtlenoir.com/"> Turtle Noir </a> </td>
         <td> <a href="https://turtlenoir.com/"> Turtle Noir </a> Un juego de enigmas de pensamiento lateral tipo "Sopa de Tortuga" con un anfitrión de IA basado en DeepSeek, disponible para uno o varios jugadores. La IA modera la partida e interactúa con humor, guiando la deducción mediante respuestas de "Sí / No / Irrelevante". Ofrece una experiencia inmersiva con una fuerte atmósfera narrativa, gestión del ritmo y un sistema de pistas para evitar bloqueos. Integra búsqueda vectorial y DeepSeek para evitar la repetición de acertijos e incluye moderación de contenido. Ideal para entrenar la creatividad y como entretenimiento social en línea. </td>
+    </tr>
+    <tr>
+        <td width=80> <img src="docs/permark/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/EdelmarSchneider/permark"> PerMark </a> </td>
+        <td> Una app de Markdown para leer y revisar lo que escriben tus agentes de IA, y guiar el trabajo a través de sus documentos. Código abierto (MIT o Apache-2.0), para Windows, macOS y Linux. </td>
     </tr>
 </table>
 
@@ -881,11 +886,6 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> <a href="docs/wusigram/README.md"> 无思微程序 </a> </td>
         <td>Herramientas de programación y operación de IA móvil, socio de programación de DeepSeek</td>
     </tr>
-    <tr>
-        <td width=80> <img src="docs/permark/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/EdelmarSchneider/permark"> PerMark </a> </td>
-        <td> <a href="https://edelmarschneider.github.io/permark/"> PerMark </a> Lee lo que escribe tu IA. Escribe lo que ella lee. Un IDE de Markdown de escritorio de código abierto (MIT/Apache-2.0) para Windows, macOS y Linux diseñado para planificar, formalizar especificaciones y dirigir agentes de programación impulsados por DeepSeek (OpenCode, Cline, Roo Code, Aider, Cursor) mediante un servidor MCP integrado (<code>permark mcp</code>), diferencias en vivo por bloques, seguimiento de cambios no leídos en git worktrees, búsqueda por etiquetas, notas con autoguardado y comentarios en línea, además de lectura y edición visual de cualquier archivo <code>.md</code>. </td>
-    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>
@@ -965,4 +965,3 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
 
 [![Star History Chart](https://api.star-history.com/svg?repos=deepseek-ai/awesome-deepseek-integration&type=Date)](https://star-history.com/#deepseek-ai/awesome-deepseek-integration&Date)
 Este gráfico muestra la evolución de las estrellas del repositorio en GitHub a lo largo del tiempo.
-
